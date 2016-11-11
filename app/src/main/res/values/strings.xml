@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Agrimensoft</string>
+    <string name="lbl_titulo_navigation_drawer">Agrimensoft</string>
+    <string name="lbl_subtitulo_navigation_drawer">chino@tecspro.com.ar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_menu_proyecto">Proyecto</string>
+    <string name="navigation_drawer_menu_coordenadas">Coordenadas</string>
+    <string name="navigation_drawer_menu_onto_redes">Onto Redes</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add">Agregar</string>
+    <string name="action_modificar">Modificar</string>
+    <string name="action_eliminar">Eliminar</string>
+    <string name="action_cancelar">Cancelar</string>
+    <string name="action_aceptar">Aceptar</string>
+    <string name="titulo_form_new_proyecto_fragment">+ Proyecto</string>
+    <string name="titulo_form_edit_proyecto_fragment">Modifcar Proyecto</string>
+    <string name="titulo_list_proyecto_fragment">Proyectos</string>
+    <string name="titulo_detail_proyecto_fragment">Detalle Proyecto</string>
+    <string name="titulo_list_generic">Lista</string>
+    <string name="titulo_form_new_generic">Nuevo</string>
+    <string name="titulo_form_edit_generic">Modificar</string>
+    <string name="titulo_detail_generic">Detalle</string>
+</resources>
